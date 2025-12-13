@@ -1,4 +1,4 @@
-# Sumbaii999's Datapack and Mod Repository
+# Sumbaii999's Datapack Collection
 
 This repository contains the following projects:
 - [Craftable Chainmail Armor](https://modrinth.com/datapack/craftable-chainmail-armor-by-sumbaii999)
