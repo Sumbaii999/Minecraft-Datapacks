@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Made by §bSumbaii999",
+    "pack_format": 41,
+    "supported_formats": {
+      "min_inclusive": 41,
+      "max_inclusive": 48
+    }
+  }
+}
